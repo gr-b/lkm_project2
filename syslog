@@ -1,0 +1,100 @@
+Sep 15 21:16:46 ubuntu kernel: [  324.297082] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297413] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297418] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297423] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297470] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297491] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.297520] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.297526] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.297542] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.297549] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.300644] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.300725] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.301897] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.301905] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.302024] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.303404] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.303447] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.303496] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.308186] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308213] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308218] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308223] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308229] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308233] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308237] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308242] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308246] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308250] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308255] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308260] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308264] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308268] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308272] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308559] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.308581] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308608] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.308616] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.308645] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.308647] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.309109] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309111] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309116] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309125] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309449] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.309458] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309476] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.309511] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.309729] "'Hello world?!' More like 'Goodbye, world!' EXTERMINATE!" -- Dalek
+Sep 15 21:16:46 ubuntu kernel: [  324.309971] " Children_user_time function reached.
+Sep 15 21:16:46 ubuntu kernel: [  324.309973] " 'Task user time: 0. Pid: 2643 
+Sep 15 21:16:46 ubuntu kernel: [  324.309974] " 'Task user time: 0. Pid: 2644 
+Sep 15 21:16:46 ubuntu kernel: [  324.309975] " 'Task user time: 0. Pid: 2645 
+Sep 15 21:16:46 ubuntu kernel: [  324.309975] " 'Task user time: 0. Pid: 2646 
+Sep 15 21:16:46 ubuntu kernel: [  324.309976] " Sibling pid: 1, current pid: 2642
+Sep 15 21:16:46 ubuntu kernel: [  324.309977] " Sibling pid: 2213, current pid: 2642
+Sep 15 21:16:46 ubuntu kernel: [  324.309978] " Sibling pid: 2627, current pid: 2642
+Sep 15 21:16:46 ubuntu kernel: [  324.309979] " Sibling pid: 2634, current pid: 2642
+Sep 15 21:16:46 ubuntu kernel: [  324.310208] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310215] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310232] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310262] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310478] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310499] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310737] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310744] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310760] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310786] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310789] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310794] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310809] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.310840] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.310986] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.311006] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.311040] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.311059] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.311244] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.311251] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.311267] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.311296] " sys_close system call intercepted!
+Sep 15 21:16:46 ubuntu kernel: [  324.311504] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:46 ubuntu kernel: [  324.311523] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313052] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313057] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313605] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313608] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313609] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313611] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.313999] " sys_close system call intercepted!
+Sep 15 21:16:48 ubuntu kernel: [  326.314002] " sys_close system call intercepted!
+Sep 15 21:16:57 ubuntu kernel: [  334.462780] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:57 ubuntu kernel: [  334.462829] " sys_close system call intercepted!
+Sep 15 21:16:57 ubuntu kernel: [  334.462843] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:57 ubuntu kernel: [  334.462934] " sys_close system call intercepted!
+Sep 15 21:16:57 ubuntu kernel: [  334.462950] " 'sys_open system call intercepted - 1000
+Sep 15 21:16:57 ubuntu kernel: [  334.463001] " sys_close system call intercepted!
+Sep 15 21:17:01 ubuntu kernel: [  338.436992] " 'sys_open system call intercepted - 1000
+Sep 15 21:17:01 ubuntu kernel: [  338.437013] " sys_close system call intercepted!
+Sep 15 21:17:01 ubuntu kernel: [  338.437051] " 'sys_open system call intercepted - 1000
+Sep 15 21:17:01 ubuntu kernel: [  338.437056] " sys_close system call intercepted!
+Sep 15 21:17:01 ubuntu CRON[2648]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
