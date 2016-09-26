@@ -1,5 +1,3 @@
-Project 2: Griffin Bishop ~ grbishop
-
 The source code for both phases (1 & 2) lies within the "themodule.c" file.
 The source code for both phases tests is in the "tester.c" file.
 

@@ -1,4 +1,3 @@
-// Project 2 - Griffin Bishop
 #include <sys/syscall.h>
 #include <unistd.h>
 #include <stdio.h>
